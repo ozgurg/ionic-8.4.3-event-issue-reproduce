@@ -1,1 +1,3 @@
-# ionic-8.4.3-event-issue-reproduce
+> [!WARNING]  
+> This repository is created for reproducing the Ionic issue.
+> Please check the issue I created at: https://github.com/ionic-team/ionic-framework/issues/30206
